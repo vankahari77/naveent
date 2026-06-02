@@ -1,0 +1,15 @@
+{
+	"name": "bgdm",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9bfbc17f-865e-4195-8876-7e098251cc3c",
+		"tenantId": "408ee513-4362-40a1-b72c-408ecd838407"
+	}
+}
