@@ -190,7 +190,7 @@
 						"type": "AzureBlobStorageLocation",
 						"fileName": "abc.txt",
 						"folderPath": "target",
-						"container": "hbkl"
+						"container": "target"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
