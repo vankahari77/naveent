@@ -383,7 +383,7 @@
 						"type": "AzureBlobStorageLocation",
 						"fileName": "abc.txt",
 						"folderPath": "target",
-						"container": "bgdm"
+						"container": "hbkl"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
