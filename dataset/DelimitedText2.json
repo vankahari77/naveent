@@ -10,7 +10,9 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"container": "target"
+				"fileName": "abcd.txt",
+				"folderPath": "target",
+				"container": "bgdm"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
