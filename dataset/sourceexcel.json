@@ -1,0 +1,23 @@
+{
+	"name": "sourceexcel",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage5",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "purchageorder.xlsx",
+				"container": "source"
+			},
+			"compression": {
+				"type": "snappy",
+				"level": "Optimal"
+			}
+		},
+		"schema": []
+	}
+}
