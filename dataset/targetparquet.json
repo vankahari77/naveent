@@ -14,6 +14,43 @@
 			},
 			"compressionCodec": "none"
 		},
-		"schema": []
+		"schema": [
+			{
+				"name": "Column1",
+				"type": "UTF8"
+			},
+			{
+				"name": "Column2",
+				"type": "UTF8"
+			},
+			{
+				"name": "Column3",
+				"type": "UTF8"
+			},
+			{
+				"name": "Column4",
+				"type": "UTF8"
+			},
+			{
+				"name": "Column5",
+				"type": "UTF8"
+			},
+			{
+				"name": "Column6",
+				"type": "UTF8"
+			},
+			{
+				"name": "Column7",
+				"type": "UTF8"
+			},
+			{
+				"name": "Column8",
+				"type": "UTF8"
+			},
+			{
+				"name": "Column9",
+				"type": "UTF8"
+			}
+		]
 	}
 }
