@@ -1,0 +1,19 @@
+{
+	"name": "targetparquet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage5",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "target"
+			},
+			"compressionCodec": "none"
+		},
+		"schema": []
+	}
+}
